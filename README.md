@@ -22,7 +22,7 @@ The repaired and deduped results are in `positions.csv`.
 
 I've included an older duckdb sql query that does this as well.
 
-## Compbining Account Positions (e.g. for a married couple)
+## Combining Account Positions (e.g. for a married couple)
 
 The easiest way to do this is to "Authorize" accounts, so that one
 person can view the other person's accounts.  However, some kinds
